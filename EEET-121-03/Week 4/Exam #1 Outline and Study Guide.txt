@@ -1,0 +1,36 @@
+Exam #1 - Primarily HW#1 and HW#2 Topics with some HW#3 (13.1 through 14.12)
+~ 20 questions
+15 m/c, 5 show your work (p/c possible)
+
+* You will be provided the AC formula sheet 
+
+* You may bring (if you choose) a 3"x5" card with equations, explanations, diagrams on it
+- Front and back OK
+- NO worked-out problems or examples
+- Submit with your exam on Friday
+
+
+3-5Q, Sinusoids, periodic waveforms 	
+- Period, frequency, phase: p13.1 - 13.13
+- Equation, sketching, interpreting: p13.14 - 13.29
+- Phase relations (lead/lag), p13.34
+
+2-3Q, Average and RMS values
+- Sinusoids and other waveforms: p13.41 - 13.54
+ 
+3-6Q, Basic Elements and Phasors (inc time domain eq and phase info)
+- Resistance: p14.5
+- Reactance: p14.6 - p14.25. p14.33 
+- Power factor, average power: p14.28 - 14.31
+
+4-6Q, Complex Numbers
+- Form and conversions: p14.37 - p14.40
+- Mathematical operations: p14.42 - p14.48
+- Solve for unknowns: p14.50
+
+3-4Q, Phasor Form (Voltage and Current)
+- Phasor form and time domain waveforms: p14.52 - p14.54
+- Find v(t) or i(t) using KCL, KVL, etc: p14.56
+
+
+

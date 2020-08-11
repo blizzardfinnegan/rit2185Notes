@@ -1,0 +1,97 @@
+Final Exam (NEXT MONDAY): 
+	
+EEET 121, AC Circuits (Lecture)
+5/6/2019, Monday
+4:15PM - 6:45PM, George Eastman Hall (EAS)-2000
+
+~ 25 m/c questions (no p/c)
+~ 5 work the problem questions (room for p/c)
+
+* You will be given the AC formula sheet from the text
+AND The series resonance summary
+AND The parallel resonance summary
+
+* You may bring a 3"x5" card with equations, explanations, diagrams on it
+- Front and back OK
+- NO worked-out problems or examples
+- Submit with your exam 
+
+
+Topics
+
+~ 50% pre-exam #3 (Chapters 13 to 18)
+-------------------------------------
+CH13 AC Waveforms,(1-2Q)
+examples: 1, 20
+problems: 11, 49
+  
+CH14 Basic Elements and Phasors, (1-2Q)
+problems:6, 8, 13, 15
+
+CH15 Series AC Circuits, (1-2Q)
+problems: 12, 14
+
+CH16 Parallel AC Circuits, (1-2Q)
+problems: 1, 10, 14
+ 
+CH17 Series-Parallel AC Circuits, (2-4Q)
+examples: 3, 6
+problems: 2, 5 
+
+CH18 Methods of Analysis (Dep sources, MESH, NODAL), (4-6Q)
+problems: 7, 13, 16
+
+Study (in order)
+- Exam #2 Sols
+- Text examples and homework problems listed above
+- Quiz solutions 1 through 6 (time allowing)
+
+
+~ 50% since/incl exam #3 (Chapters 19 to 24)
+--------------------------------------------
+CH19 Network Theorems (Superposition, Thev, Nort, Pmax), (1-3Q)
+examples: 7, 8
+problems: 15, 34, 48
+
+CH20 AC Power(Power Triangle), (1-3Q)
+examples: 3, 5
+problems: 12, 19
+
+CH21 Resonance (Series and Parallel), (1-3Q)
+examples: 1, 14
+problems: 7, 9
+
+CH22 Filters (Types/analysis), (2-4Q)
+examples: 5, 6 
+problems: 19, 20, 25
+
+CH23 Transformers, (2-4Q)
+examples: 3 
+problems: 8, 12
+
+CH24 Polyphase Systems, (2-4Q)
+examples: 1, 2
+problems: 1, 11
+
+Study (in order)
+- Text examples and homework problems listed above
+- Exam #2 Sols
+- Quiz solutions 7 through 10 (time allowing)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

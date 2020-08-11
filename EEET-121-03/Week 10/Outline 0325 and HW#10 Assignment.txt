@@ -1,0 +1,48 @@
+Week 10 Session 01 (M)
+
+Power-Factor Correction
+- Description 
+- Reasons it's important
+    Primarily current (affects size, reliability, cost, etc)
+- Example (use your calculator)
+    Lagging power factor (inductive)
+    Similar to Lab #6 coming up
+    PFC Panels
+      Text and an internet search
+- In Class Problem
+    Factory loading
+    Similar to a couple of homework problems
+-----
+Homework #10 Assignment (Due Monday, 04/01 at the start of class):
+
+Individual: 
+Chapter 20, problems 9 and 12
+Chapter 21, problem 1
+
+Team: 
+Chapter 20, problems 14 and 19 
+Chapter 21, problem 3
+
+*As usual, voltages and currents given by the textbook in phasor form are in RMS
+unless stated otherwise. put your answers in RMS form as well *
+-----
+Reminders
+
+1) HW#9 - Due now 
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Read chapter 21, sections 1 through 8 (series resonance) before Wednesday
+
+3) Quiz Friday on HW#9 topics
+
+4) Starting today (03/25), +1% on exam #3 for each recitation attended (and participated in)
+up to 5% total
+
+
+
+
+
+
+

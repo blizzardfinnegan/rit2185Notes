@@ -1,0 +1,53 @@
+Week 14 Session 03 (F)
+
+Quiz #10 - Basic Transformers
+
+Configuration (Y Connected Gen with Delta Load)
+  Voltage and current relationships
+
+Example Problem
+  Balanced load, ABC phase sequence
+  Finding the currents and voltages
+  Checking our results
+  Simulation verification
+    Voltage and current measurements
+
+-----
+Reminders
+
+1) HW#14 - Due Monday
+
+2) Monday in class
+- Final Exam Outline/Details/Study Plan
+
+3) Final Exam:
+EEET 121, AC Circuits (Lecture)
+5/6/2019, Monday
+4:15PM - 6:45PM, George Eastman Hall (EAS)-2000
+
+ * Anyone with MORE than 2 exams on that day that would like to schedule 
+an earlier time/day must contact me by the end of the day TODAY (4/26) *
+
+4) Recitations
+- Fri 4/26 and Sat 4/27 cancelled due to Imagine RIT
+- Mon 4/29 will go on as scheduled
+- SEVERAL BEING ADDED next week/weekend (watch myCourses)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

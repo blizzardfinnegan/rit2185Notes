@@ -1,0 +1,32 @@
+Week 9 Session 02 (W)
+
+Norton’s Theorem
+-Introduction and general approach
+-Source conversion approach
+-Example 
+  Only independent sources
+  Use your calculator 
+-Example 2
+  Includes a dependent source controlled in-network
+  Requires a different method to determine ZN (test source)
+
+Maximum Power Transfer Theorem
+-Statement and discussion
+-In class problem
+
+-----
+Reminders
+
+1) Read chapter 20, sections 1 through 8 by this Friday (The power triangle)
+
+2) Quiz Friday on HW#8 topics - Nodal AND Superposition
+
+
+
+
+
+
+
+
+
+

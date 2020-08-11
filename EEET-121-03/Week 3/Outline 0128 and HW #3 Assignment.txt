@@ -1,0 +1,57 @@
+Week 3 Session 01 (M)
+
+Complex Numbers - Team Problems (Based on the TEXT reading and last Friday's notes)
+- Each team will SUBMIT their work at the end of class (for class participation points)
+
+1) R->P and P->R Form 
+
+2) Addition and Subtraction 
+
+3) Multiplication and Division 
+
+4) Conjugation and Problem Solving
+
+-----
+HW#3 Assignment (Due next Monday, 02/04 at the start of class):
+
+Individual 
+
+Chapter 14, problems: 37, 40, 42, 43, 47, 52 
+Chapter 15, problems: 1, 8, 9, 11
+
+Team  
+
+Chapter 14, problems: 48, 50, 54 (given phasors are of the form pk,ANGLE), 56
+Chapter 15, problems: 3, 5(a through d), 10
+
+
+* You may use your calculator directly when working with the complex numbers
+
+* Use PEAK Values for your voltage and current phasors as in class, NOT RMS and
+make sure you LABEL your phasors properly *
+-----
+Reminders
+
+1) HW#2 - Due now (solutions will post this afternoon)
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED, format will count heavily 
+
+2) Read chapter 14, sections 11 and 12 for Wednesday
+
+3) Quiz #2 - Friday (HW#2 Topics)
+- Review the HW sols
+- BRING YOUR CALCULATOR (no loaners)
+
+
+
+
+
+
+
+
+
+
+
+
+

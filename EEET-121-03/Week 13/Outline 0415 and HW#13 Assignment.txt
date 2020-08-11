@@ -1,0 +1,53 @@
+Week 13 Session 01 (M)
+
+Transformers - Introduction
+               Objectives
+               Vocabulary and background
+
+Analysis/Equations
+  Schematic
+  Compare to inductors
+  Primary and secondary voltages
+  Coefficient of coupling
+  Mutual inductance
+  Example problem
+
+In Class Problem
+
+-----
+HW#13 Assignment (Due Monday, 04/22 at the start of class):
+
+Individual
+Chapter 23, problems 1(use M = 200 mH), 2a (use M = 200 mH), 4, 5, 8
+
+Team
+Chapter 23, problems 12 and 13
+
+Problems 1 and 2a can be completed after Monday's lecture
+Problems 4, 5, and 8 can be completed after Wednesday's lecture
+Problems 12 and 13 can be completed after Friday's lecture
+
+-----
+Reminders
+
+1) HW#12 - Due now 
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Read through chapter 23 section 4 before Wednesday
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

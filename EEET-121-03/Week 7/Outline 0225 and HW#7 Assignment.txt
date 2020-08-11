@@ -1,0 +1,64 @@
+Week 7 Session 01 (M)
+
+Dependent Sources
+- Introduction 
+- Notation
+- Source conversions
+- ICP: Source conversions with dependent sources 
+
+Simultaneous Equations
+- Matrix description
+- Solving using the inverse matrix method
+- ICP: Solving simultaneous equations using the inverse matrix method
+
+-----
+Homework #7 Assignment (Due next Monday, 03/04 at the start of class):
+
+CHAPTER 18 (All voltage and current sources are in RMS, put your ans in RMS)
+Individual Problems: 2,3,7
+Team Problems:8,13,16
+
+-----
+Reminders
+
+1) HW#6 - Due now (solutions will post this afternoon)
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Carefully read through Chapter 18 section 4 for Wednesday (MESH)
+- Review MESH analysis from DC
+- Learn how to use your calculator to solve simultaneous equations that contain complex numbers
+using the inverse matrix method
+
+3) Quiz this Friday, 03/01
+- HW#6 Topics (Series/Parallel AC Circuit Analysis)
+- TIMED and INDIVIDUAL: Be able to use your calculator efficiently for complex number calculations!
+
+4) Quiz #4 Feedback
+- Issues: Units (V, Ohms, Amps), Magnitude (pk or RMS), Angles (need "deg" symbol, default is radians)
+showing legible work (print?), ans the question posed (i.e. Q7 on pf lead or lag), printed names difficult 
+to read
+> Grading to toughen-up on these issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

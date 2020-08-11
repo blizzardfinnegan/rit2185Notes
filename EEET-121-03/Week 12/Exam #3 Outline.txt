@@ -1,0 +1,53 @@
+Friday 04/12, 50 mins in class
+10 multiple-choice questions (no p/c)
+5-7 work the problem and show your work questions (p/c avail)
+
+* You will be provided scrap paper and the text formula sheet (AC) as well as tables 21.1 and 21.2
+(the Series and Parallel Resonance Summary Tables)
+
+** You may bring a 3"x5" index card, front and back (no worked out probs or examples)
+
+Topics/study suggestions
+------------------------
+CH19 Thevenin 2-3Q
+- Be able to calculate VTH and ZTH
+- Probs: 19.15,16,17
+
+CH19 Max Power Transfer 2-3Q
+- Know how to choose the load for Pmax
+- Know how to calculate Pmax
+- Probs: 19.48,49,50
+
+CH20 Power triangle 2-4Q
+- Find the power triangle
+- Use the information to determine Fp, source current
+- Probs: 20.17,18,19
+
+CH21 Series resonance 3-5Q
+- Find XL or XC at resonance
+- Find Q
+- Find fres
+- Circuit analysis (V,I,Z at resonance)
+- find BW
+- Probs: 21.1,2,3,4
+
+CH21 Parallel resonance 3-5Q
+- Find XL or XC at resonance
+- Find Ql and Qp
+- Find fres
+- Circuit analysis (V,I,Z at resonance)
+- find BW
+- Probs: 21.16,17,18
+
+CH 22 dB gain (power and voltage), dbm (power level) 3-5Q
+- Know the difference between dB gain - voltage and power
+- Be able to apply the eqs to find the unknown voltage, power or gain
+- Know how to determine dBm (power level)
+- Probs: 22.10,11,12,13,14
+
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+Week 2 Session 01 (W)
+
+Sine spreadsheet (phase, frequency mods)
+- Quick demo
+- Posted (myCourses)
+
+The Derivative
+- Intro and understanding (qualitative)
+- Effects of frequency
+- Calculus (the details)
+
+Response of R,L,C to Sinusoids (as forcing functions)
+- Resistor
+- Inductor
+- Inductor ICPs
+- Capacitor
+- Capacitor ICPs
+
+R,L,C Over Frequency (Intro)
+- Ideal vs “practical” models
+
+-----
+HW#2 Assignment (Due next Monday, 01/28 at the start of class):
+
+Individual 
+Chapter 14, problems: 5a, 6, 7, 8, 13, 15, 17, 19, 22, 23, 25, 29
+
+Team  
+Chapter 14, problems: 9a&b, 20a, 27, 28a&b, 31, 33
+
+* USE Excel for PLOTS and do "sketches" very neatly by hand OR use Excel
+-----
+
+Reminders
+
+1) HW#1 - Due now, 2 piles
+- Late work not accepted
+
+2) Finish reading chapter 14, sections 4 and 5 BEFORE our next class
+
+3) Review the posted notes before class
+
+4) Quiz #1 - Friday (HW#1 Topics)
+- Review the HW sols, ICPs and text examples
+- BRING YOUR CALCULATOR (no loaners)
+
+
+
+
+
+
+
+
+
+
+
+
+

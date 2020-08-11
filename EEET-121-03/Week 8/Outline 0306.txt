@@ -1,0 +1,54 @@
+Week 8 Session 02 (W)
+
+Superposition
+- Introduction and Discussion
+- Example with DC and AC Sources 
+   Work as we go in your calculator
+   Uses voltage divider instead of current divider (text)
+- ICP with two AC Sources of the Same Frequency
+   Uses current divider (special case)
+-----
+Reminders
+
+1) Exam #2 - THIS Friday, 03/08, 50 min
+
+- Primarily m/c
+- Some of the problems will come directly from the homework assignments, quizzes and 
+text examples
+- 10 to 15 questions, 4 to 6 different circuits
+
+* You may bring (if you choose) a 3"x5" card with equations, explanations, diagrams on it
+- Front and back OK
+- NO worked-out problems or examples
+- Submit with your exam on Friday
+
+* No NODAL analysis on this exam *
+
+* Make sure you understand frequency characteristics of these circuits as wel
+
+2) HW#8 - Due on 03/18 when you return (at the start of class)
+NO LATE ASSIGNMENTS ACCEPTED
+
+3) Read chapter 19, sections 3 and 4 (Thevenin and Norton) before class on 03/18
+
+4) Lab #4 will be posted Friday (03/08), watch your email for details. This week is lab practical makeup week.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

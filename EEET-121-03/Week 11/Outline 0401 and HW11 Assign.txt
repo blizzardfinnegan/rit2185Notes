@@ -1,0 +1,47 @@
+Week 11 Session 01 (F)
+
+Parallel Resonance
+-Introduction and General Circuit
+-Resonant Frequency
+-Quality Factor
+-Q>=10 Case
+-Selectivity and Branch Currents
+-Example
+
+* Make sure you read this ENTIRE CHAPTER (21), there is a great deal of information
+that will be helpful for HW problems and future work than contained in these PowerPoints *
+
+-----
+Homework #11 Assignment (Due Monday, 04/08 at the start of class):
+
+Individual: 
+Chapter 21, problems 4,5,14,18
+Chapter 22, problems 3,8,10,13
+
+Team: 
+Chapter 21, problems 9,26,28 
+Chapter 22, problems 12,14
+
+*Assume voltages and currents given by the textbook in phasor form are in PEAK
+unless stated otherwise*
+
+CH21 P4,5,9 (Series Resonance) can be completed before Monday's lecture
+CH21 P14 (Parallel Resonance, intro) can be completed after Monday's lecture
+CH21 P18, 26, 28 (Parallel Resonance) can be completed after Wednesday's lecture
+CH22 problems (dB and Filter, intro level) can be completed after Friday's lecture
+-----
+Reminders
+
+1) HW#10 - Due now 
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Quiz Friday on HW#10 topics
+
+
+
+
+
+
+

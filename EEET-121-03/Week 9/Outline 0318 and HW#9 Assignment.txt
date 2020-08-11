@@ -1,0 +1,43 @@
+Week 9 Session 01 (M)
+
+* Exam #2 - Stats and feedback posted
+
+Thevenin's Theorem 
+- Introduction and Detailed Approach
+- Example 1
+   Illustrative example
+   Only independent sources 
+- Example 2
+   Only independent sources, more complex
+   Work as we go in your calculator
+- Example 3
+   Includes a dependent source controlled in-network
+   Requires a different method to determine ZTH (test source)
+- In Class Problem
+   Includes a dependent source controlled out-of network
+   Use the standard approach
+
+-----
+Homework #9 Assignment (Due Monday, 03/25 at the start of class):
+Individual: Chapter 19, problems 15, 34, 48
+Team: Chapter 19, problems 17, 33 AND Chapter 20 problem 4
+
+*As usual, voltages and currents given by the textbook in phasor form are in RMS, 
+place your answers in RMS as well *
+-----
+Reminders
+
+1) HW#8 - Due now (solutions will post this afternoon)
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Read chapter 19, sections 4 (Norton) and 5 (Max Pwr Transfer) by Wednesday
+
+3) Quiz Friday on HW#8 topics
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+Week 14 Session 01 (M)
+
+Polyphase Systems
+
+Introduction
+  -Objectives
+  -Vocabulary and background
+
+Analysis
+  -Comparison with single-phase
+  -Comparison with two-phase
+  -Currents and voltage in a three-phase system
+  -The Y-Connected generator (vocabulary and circuit intro)
+
+-----
+HW#14 Assignment (Due Monday, 04/29 at the start of class):
+
+Individual
+Chapter 24, problems: 1,11
+
+Team
+Chapter 24, problems: 3,7,17 
+
+* All voltages and currents in RMS unless otherwise stated *
+
+Problems 1,3 and 7 can be completed after covering Wednesday's material 
+Problems 11 and 17 can be completed after covering Friday's material
+
+-----
+Reminders
+
+1) HW#13 - Due now 
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Read through chapter 24 sections 5 and 6 before Wednesday
+
+3) Lap Practical Makeup - signup for those with less than 70%
+
+4) Quiz Friday on HW#13 topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

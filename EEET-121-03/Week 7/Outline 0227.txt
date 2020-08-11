@@ -1,0 +1,46 @@
+Week 7 Session 02 (W)
+
+Mesh Analysis - General Approach Only (will not cover the format approach)
+- Introduction 
+- Example (work along)
+- Special cases
+	Dependent voltage sources
+	Independent current sources
+	Dependent current sources
+- ICP with a dependent voltage source 
+-----
+Reminders
+
+1) Quiz this Friday, 03/01
+- HW#6 Topics
+- TIMED and INDIVIDUAL: Be able to use your calculator efficiently for complex number calculations!
+- M/C, no partial credit
+
+2) We will continue with more MESH Analysis on Friday
+- Efficient solution for complex systems is required moving forward 
+
+3) HW#7 - Due next Monday, 03/04
+- NO LATE ASSIGNMENTS ACCEPTED
+
+4) Exam #2 - Friday, March 8th 
+Text: Sections 15.1 - 18.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

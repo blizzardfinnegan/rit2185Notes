@@ -1,0 +1,26 @@
+Exam #2 - THIS Friday, 03/08, 50 min
+
+- Primarily m/c
+- Some of the problems will come directly from the homework assignments, quizzes and 
+text examples
+- 10 to 15 questions, 4 to 6 different circuits
+
+Chapters:
+
+15 (Series AC Circuits), 2-4Q
+> Total impedance, voltage across any element, current through the circuit, etc
+
+16 (Parallel AC Circuits), 2-4Q
+> Total impedance or admittance, current through any element, voltage across the elements, etc
+
+17 (Series-Parallel AC Networks), 2-4Q
+> Total impedance or admittance, voltage across or current though any element, component values given reactances, or vice-versa
+
+18 (Sources, Source Conversions, MESH), 3-5Q
+> Perform source conversions, keep track of polarities, etc
+> Perform MESH analaysis with independent and/or dependent sources present (find current, voltage, power, etc)
+
+* No NODAL analysis on this exam *
+
+* Make sure you understand frequency characteristics of these circuits as well
+

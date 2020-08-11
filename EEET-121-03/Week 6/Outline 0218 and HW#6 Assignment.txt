@@ -1,0 +1,54 @@
+Week 6 Session 01 (M)
+
+Series-Parallel Circuits
+- Introduction and Approach
+- Studying the problem
+- Complete example (Work as we go in your calculator)
+- ICP – Partial HW#6 problem
+
+Ladder Networks
+- Discussion (specific case)
+- Development of the approach
+- Current divider – Development of the two-impedance special case
+
+-----
+Homework #6 Assignment (Due next Monday, 02/25 at the start of class):
+
+CHAPTER 16
+Individual: Problem #23 (Voltage and current given in RMS)
+Team: Problem #26 (use Multisim - Place a small (milli-Ohm or so) resistor in series with L1 to avoid simulation errors.  
+Run the simulation from 1Hz to 10kHz, do not start at 0HZ, use log frequency scaling).
+
+CHAPTER 17
+Individual: Problems - 1 , 5 AND 14 (voltage given in RMS for ALL three problems, give your ans in RMS)
+Team:  Problems - 2 and 8 (R2=1 kohm) (voltage given in RMS for BOTH three problems, give your ans in RMS), 
+AND 17 (current given in RMS, give your ans in RMS)
+
+-----
+Reminders
+
+1) HW#5 - Due now (solutions will post this afternoon)
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Teams - 
+
+3) Read Chapter 17 sections 3 and 4 for Wednesday
+
+4) Quiz this Friday, 02/22
+- HW#5 Topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+

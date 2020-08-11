@@ -1,0 +1,43 @@
+Week 1 Session 02 (W)
+
+Team assignments
+- Sit together
+- Exchange communications info
+- Decide on text responsibilities (or process)
+
+AC Waveform Introduction
+- Various AC waveforms and sources
+- Sinusoids: Important characteristics/definitions, examples
+- ICP: Period and Frequency
+- Notation for AC voltage and AC current sources
+- Equations for sinusoids
+- Radians and Degrees, calculators
+- ICP: Instantaneous values
+- Phase lead and lag
+- ICP: Lead and lag
+
+
+Reminders
+
+1) Read chapter 13, sections 7-9 BEFORE our next class
+
+2) Review the posted notes (for session 3) before class
+
+3) HW#1 is due this coming Wedneday, 01/23
+- Team AND Individual assignments
+- NO LATE WORK will be accepted
+- Pay STRICT ATTENTION to the formatting requirements in the syllabus
+
+
+
+
+
+
+
+
+
+
+
+
+
+

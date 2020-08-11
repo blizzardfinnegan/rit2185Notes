@@ -1,0 +1,75 @@
+Week 8 Session 01 (M)
+
+NODAL ANLAYSIS - General Approach Only (will not cover the format approach)
+- Introduction 
+- Example (work along)
+- Special cases
+    Dependent current sources
+    Independent voltage sources
+    Dependent voltage sources
+- ICP with a dependent current source and a voltage source
+
+-----
+Homework #8 Assignment (Due Monday, 03/18 at the start of class):
+
+CHAPTER 18 (All voltage and current sources given in phasor form are in RMS, your ans should be as well)
+Individual Problems: 17,20
+Team Problems: 24,25
+
+CHAPTER 19 (All voltage and current sources given in phasor form are in RMS, your ans should be as well)
+Individual Problems: 1,2
+Team Problems: 6 (find the complete expression for i(t), including the DC component),8
+-----
+Reminders
+
+1) HW#7 - Due now (solutions will post this afternoon)
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Exam #2 - THIS Friday, 03/08, 50 min
+
+- Primarily m/c
+- Some of the problems will come directly from the homework assignments, quizzes and 
+text examples
+- 10 to 15 questions, 4 to 6 different circuits
+
+Chapters:
+
+15 (Series AC Circuits), 2-4Q
+> Total impedance, voltage across any element, current through the circuit, etc
+
+16 (Parallel AC Circuits), 2-4Q
+> Total impedance or admittance, current through any element, voltage across the elements, etc
+
+17 (Series-Parallel AC Networks), 2-4Q
+> Total impedance or admittance, voltage across or current though any element, component values given reactances, or vice-versa
+
+18 (Sources, Source Conversions, MESH), 3-5Q
+> Perform source conversions, keep track of polarities, etc
+> Perform MESH analaysis with independent and/or dependent sources present (find current, voltage, power, etc)
+
+* No NODAL analysis on this exam *
+
+* Make sure you understand frequency characteristics of these circuits as well
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

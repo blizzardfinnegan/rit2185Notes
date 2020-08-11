@@ -1,0 +1,49 @@
+Week 7 Session 03 (F)
+
+MESH Analysis II
+- One ICP with two current sources
+
+Quiz #5 - Timed, 20 minute quiz
+-----
+Reminders
+
+1) HW#7 - Due next Monday, 03/04
+- NO LATE ASSIGNMENTS ACCEPTED
+
+2) Read chapter 18 sections 5 (Nodal Analysis) for Monday
+
+3) Exam #2 - NEXT Friday, 03/08
+- Primarily m/c
+
+Chapters:
+
+15 (Series AC Circuits)
+16 (Parallel AC Circuits)
+17 (Series-Parallel AC Networks)
+18 (Sources, Source Conversions, MESH)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

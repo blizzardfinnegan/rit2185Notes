@@ -1,0 +1,38 @@
+Week 14 Session 02 (W)
+
+* Course Evaluations - SRATE 
+- 10 minutes in class
+
+Three Phase System
+  Review/Clarification
+  Three phase voltages
+
+The Y-connected generator
+  Y-Connected Generator and Load ICP
+    -Balanced load, ABC phase sequence
+
+-----
+Reminders
+
+1) Read through chapter 24 section 6 before Friday
+
+2) Quiz #10 Friday on HW#13 topics
+- Basic (ideal) transformer
+(Voltage, current, turns ratio, power)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

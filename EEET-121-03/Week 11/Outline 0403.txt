@@ -1,0 +1,43 @@
+Week 11 Session 02 (W)
+
+Parallel Resonance (Summary)
+  General circuit
+  Simplified circuit (Q>=10)
+  Impedance and voltage over frequency (frequency response)
+  Selectivity change with varying RL
+  Summary equations from the text
+
+Parallel Resonance ICP/Example
+  Calculations using the Q>=10 equivalent circuit -> ICP
+  ZTP calculation (exact)
+  IT calculation (exact)
+  VC calculation (exact)
+  Simulation results/clarifications
+-----
+Reminders
+
+1) Read chapter 22, 1 through section 5 before Friday
+
+2) Quiz Friday on HW#10 topics
+- Power (S, P, Q, I, V, Z, PF, etc)
+- Series Resonance (basic)
+
+3) OH today (WED) held in 82-3125 (2-4pm) 
+- I am running Dr. Olabisi's lab this afternoon
+
+4) Lab Practical #2: Next Week
+- Review session Saturday from 1-3p, 82-3125 (Mike)
+- Will be similar to Lab #5 (Thevenin)
+
+
+
+
+
+
+
+
+
+
+
+
+

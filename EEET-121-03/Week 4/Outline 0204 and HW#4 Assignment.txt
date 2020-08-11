@@ -1,0 +1,56 @@
+Week 4 Session 01 (M)
+
+Series Configuration
+- Introduction to AC Series Circuits
+- Comparison to DC Series Circuits
+- RL Circuit Example
+- ICP 1 – Series RC Circuit 
+
+Voltage Divider Rule
+- Introduction
+- Example
+- ICP 2 – Use voltage divider to find unknown voltages
+
+-----
+
+HW#4 Assignment (Due next Monday, 02/11 at the start of class):
+
+Individual 
+Chapter 15, problems: 12(a,b), 13(a,b), 14(a,b), 15, 22, 24
+* For problems 14 and 15: Assume the voltages and currents given in phasor form are RMS
+
+Team  
+Chapter 15, problems: 28, 29, 30
+* For problem 28: Assume the source voltages given in phasor form are RMS
+* For problem 29a: Express I, Vr, Vc as phasor form in RMS (Irms, Vrms)
+* For problem 30: E = 5Vrms < 0 Deg
+-----
+Reminders
+
+1) HW#3 - Due now (solutions will post this afternoon)
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Read chapter 15, sections 8 through 10 for Wednesday
+
+3) Exam #1 - THIS Friday, 02/08
+- Entire class
+- Primarily multiple-choice (no partial)
+- Material from Chapter 13.1 through 14.12
+
+* Outline discussion in class, will post Wednesday *
+
+
+
+
+
+
+
+
+
+
+
+
+
+

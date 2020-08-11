@@ -1,0 +1,50 @@
+Week 5 Session 03 (F)
+
+Quiz #3 - HW#4 Topics (Series Circuit Impedance)
+
+R-L-C Parallel Circuit
+- Frequency response (ZT) - introduction
+- ZT and Fp - calculation
+- Excel spreadsheet for ZT and Fp
+- ICP – Find C to “cancel” L in a parallel R-L-C (Project #1 Week 2)
+
+Parallel-Series Equivalent Circuits
+- Discussion/example
+- Limitations 
+- ICP – Find an equivalent series circuit to a parallel R-L (Project #1 Week 2)
+----
+Reminders
+
+1) Read chapter 17 sections 1 and 2 for Monday (Series/Parallel Networks)
+
+2) HW#5 - Due Monday
+
+3) See the LAs!!:
++ 1/100 Exam #2 points for each substantive recitation attendance
+between now and Exam #2, up to a MAXIMUM of +5/100 points (5 visits)
+
+4) ONLINE survey re: Exam #2 date, Pick one... 
+- Wed 03/06
+OR
+- Fri 03/08 (The day before Spring Break)
+
+5) Sat 2/16 and Sat 2/23 Recitation
+> 1-3pm in ENT (82) 3125
+> For Lab Practical 1 help/practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

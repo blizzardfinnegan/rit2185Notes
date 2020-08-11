@@ -1,0 +1,9 @@
+EEET-121-03
+AC Circuits
+Professor: Steven Ciccarelli
+Semester: 2185 (2019 Spring)
+Time Slot: Unknown
+
+Professor Ciccarelli is an excellent professor for this course. He enjoys this course, from a signals perspective. As with a previous course we have taken with him, he continues his Dilbert showcase in each lecture.
+This course requires a Ti-NSpire, or an HP equivalent. Ciccarelli will be happy to help with the HP, but will be unable to help if you use the Ti calculator, so choose wisely. 
+This course is math heavy, so we did fairly well in it. It builds off of the thoughts of DC Circuits, so if you did well in DC Circuits, and understand imaginary numbers, you will do well here as well.

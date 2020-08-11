@@ -1,0 +1,47 @@
+Week 11 Session 03 (F)
+
+Quiz #8 - Power and Series Resonance
+
+Chapter Objectives and Introduction
+  - General equations
+
+Application examples
+  dB – Human Hearing
+  dB – Voltage Gain Example and Amplifier Stages
+  dB – Power Gain (In Class problem)
+
+Filters 
+  - Introduction
+  - Classification
+  - Example Circuits
+
+-----
+Reminders
+
+1) HW#11 due Monday (no late work accepted)
+
+2) Extra lab help (practical 2 next week):
+
+Lab Practical #2 Practice, ENT(82)-3125
+Saturday *TOMORROW* 1-3p, Mike
+
+Lab practical #2 - Similar to labs 4 and 5
+- Equiv circuits, sample resistor, Thevenin Eq including component calcs
+
+3) Read chapter 22, sections 5 and 6 before Monday
+
+4) Exam #3: Next Friday
+- M/C section
+- Problem solving (show your work for partial credit) section
+
+
+
+
+
+
+
+
+
+
+
+

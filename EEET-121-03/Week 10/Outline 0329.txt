@@ -1,0 +1,25 @@
+Week 10 Session 03 (F)
+
+Team Quiz #7 - Thevenin, Norton and Pmax
+
+Series Resonance (Summary)
+-General circuit
+-Impedance and current over frequency (frequency response)
+-Selectivity change with varying R
+-Summary equations from the text
+
+Series Resonance ICP (will not post, team HW prob from week 11)
+-Design problem
+-----
+Reminders
+
+1) Read the remainder of chapter 21 before Monday (Parallel resonance on Mon)
+
+2) HW#10 - Due Monday at the start of lecture
+
+
+
+
+
+
+

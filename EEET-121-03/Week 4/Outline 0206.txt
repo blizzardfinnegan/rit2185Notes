@@ -1,0 +1,40 @@
+Week 4 Session 02 (W)
+
+Frequency Response for Basic Elements
+- Introduction
+- RLC Series Circuit (qualitatively)
+- RLC Series Circuit Impedance Example/ICP – Find the equation and sketch
+
+Frequency Response for a Series RC Circuit
+- Total Impedance and example/ICP
+- Voltage Vc and example/ICP
+-----
+Reminders
+
+1) Exam #1 - THIS Friday, 02/08
+- Entire class
+- Primarily multiple-choice (no partial)
+- Material from Chapter 13.1 through 14.12
+
+* The exam outline from Monday's lecture is POSTED *
+
+2) HW#4 - Due Monday
+- NO LATE ASSIGNMENTS ACCEPTED
+
+3) Read chapter 15, sections 10 through 12 for Monday
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

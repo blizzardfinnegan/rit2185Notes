@@ -1,0 +1,58 @@
+Week 5 Session 01 (M)
+
+Project #1, Week 1
+- Prelab (partial) discussion – ZT for a series RL Circuit
+	- Calculations
+	- Simulation (interpretation of results)
+
+Series RC Circuit (from Friday) – Frequency Response
+- ICP – Worksheet in your teams
+	- Check each other’s work
+	- Help each other with your calculators
+- Simulation Demo (Multisim)
+	- Compare ZT results
+	- Compare VC results
+-----
+
+HW#5 Assignment (Due next Monday, 02/18 at the start of class):
+
+Individual 
+Chapter 15, problems: 31, 35
+Chapter 16, problems: 3, 5(III), 10, 14, 20 
+* Problems 10 and 14: I given in RMS, solve using RMS
+
+
+Team  
+Chapter 15, problem: 33 (parts a,b,c only)
+Chapter 16, problems: 4(II), 7(a through d), 19 
+* Problem 19:I given in RMS, solve using RMS 
+* Plot - Use EXCEL or MULTSIM
+
+-----
+Reminders
+
+1) HW#4 - Due now (solutions will post this afternoon)
+- Individual folder
+- Team folder
+NO LATE ASSIGNMENTS ACCEPTED
+
+2) Submit TEAM MEMBER EVALS 
+
+3) Read Chapter 16 sections 1 through 7 (parallel AC circuits) for Wednesday
+
+3) Quiz this Friday, 02/15
+- HW#4 Topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+Week 5 Session 02 (W)
+
+Impedance and Admittance
+- Relationship and intro (Z and Y)
+- Admittance for the basic elements
+- Impedance and admittance diagram - Example
+
+Parallel Circuit Analysis (including current divider)
+- Example using impedance 
+- Example using admittance
+
+ICP – Parallel AC Circuit
+
+----
+Reminders
+
+1) Read the remainder of Chapter 16 for Friday
+
+2) Quiz this Friday, 02/15
+- HW#4 Topics
+
+3) HW#5 - Due Monday
+
+4) Seek extra help as needed - LA Recitations, Office Hours, tutoring
+
+5) * Online survey re: Exam #2 Date (Wed 03/06 or Fri 03/08) *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

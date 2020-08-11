@@ -1,0 +1,17 @@
+EP - Engineering Paper
+DD - Due Date
+Ft - Footer missing/partial
+Box - Box in answers
+IA - Incomplete Answer
+SW - Show work
+PN - Professor Name
+EN - Engineering Notation
+Hd - Header(lots missing)
+PC - Program Code
+WQ - Write Questions
+T# - Team Number
+
+SP - Staple Pages
+MW - Messy Work
+	
+

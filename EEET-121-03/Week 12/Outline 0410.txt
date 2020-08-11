@@ -1,0 +1,29 @@
+Week 12 Session 02 (W)
+
+Brief Review - Parallel Resonance
+
+BPF with Source and Load (similar to lab project 2)
+  Analysis (assumes Q>=10)
+  fp,Qp,BW, voltage gain
+  Simulation verification and interpretation
+    Low frequency “tail” explanation
+
+BPF with Source and Load – In class problem
+  Same circuit as above with matched impedances
+---------
+Reminders
+
+1) HW#12 due Monday (no late work accepted)
+
+2) Exam #3 - Friday, see posted outline/study guide
+
+3) Read chapter 23, sections 1 through 4 (transformer intro)
+
+
+
+
+
+
+
+
+

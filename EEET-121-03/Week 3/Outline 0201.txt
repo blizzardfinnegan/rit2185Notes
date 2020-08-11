@@ -1,0 +1,45 @@
+Week 3 Session 03 (F)
+
+Quiz #2 - HW#2 Topics
+- Individual quiz, no formula sheet
+- No partial credit
+
+Impedance Diagram 
+- For the Basic Elements
+- For a series circuit
+ 
+Lab #3 – Prelab Discussion and Demo (continued)
+- Simulation demo
+- Finding VL(t) 
+-----
+Reminders
+
+1) Read chapter 15, sections 6 and 7 for Monday (Series circuits and voltage divider)
+
+2) HW#3 - Due Monday at the start of class
+- You may use your calculator directly when working with the complex numbers
+- Use PEAK Values for your voltage and current phasors as in class, NOT RMS and
+make sure you LABEL your phasors properly *
+
+3) * +1 Exam point for attending AND participating in LA sessions
+between now and Exam #1 *
+
+4) Exam #1 - NEXT Friday, 02/08
+- Entire class period
+- Primarily multiple-choice (no partial)
+- Material from Chapter 13.1 through 14.12
+- The AC formula sheet will be provided
+
+
+
+
+
+
+
+
+
+
+
+
+
+

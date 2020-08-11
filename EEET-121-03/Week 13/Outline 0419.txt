@@ -1,0 +1,46 @@
+Week 13 Session 03 (F) - ONLINE ONLY (myCourses)
+
+CLASS on Friday 04/19 - ONLINE (myCourses system)
+> Review the posted PDF (Week 13, Session 03 - Transformers - Impedance Matching and Sim r2.PDF)
+> Load and run the "coupledcoils.ms12" simulation (Multisim)
+> Check your results via the lecture material
+
+Transformers for Impedance Transformation
+  -Analysis
+  -Example
+  -Pmax
+Transformer Simulation
+  -Turns ratio and model
+  -Interpretation and Analysis
+
+QUIZ on Friday 04/19
+* Take the ONLINE QUIZ - QUIZZES section, Quiz #9
+> Opens Friday 04/19 at 8am until Saturday, 04/20 at 11:59PM
+> You will have 30 minutes and must complete the quiz on your own before 04/20 at 11:59PM EST
+
+-----
+Reminders
+
+1) Read through chapter 24 sections 1 through 4 before Monday
+
+2) HW#13 - Due Monday
+
+3) No office hours today (FRI 4/19) at 2pm
+- Email me with questions
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

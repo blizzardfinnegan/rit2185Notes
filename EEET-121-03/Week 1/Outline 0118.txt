@@ -1,0 +1,36 @@
+Week 1 Session 03 (F)
+
+Average Value
+- Intro and example
+- Periodic waveforms
+- ICP
+- Half sine and sinusoidal waveforms
+- ICP
+- Using the oscilloscope
+
+Effective or RMS Values
+- Intro 
+- Equating DC and AC average power
+- Examples
+- ICP (sinusoidal)
+- ICP (non-sinusoidal)
+
+-----
+Reminders
+
+1) HW#1 is due next Wedneday, 01/23 (no class Mon 01/21)
+- Team AND Individual assignments
+- NO LATE WORK will be accepted
+- Pay STRICT ATTENTION to the formatting requirements in the syllabus
+
+NO LATE ASSIGNMENTS ACCEPTED, format will count heavily 
+
+2) Read chapter 14, sections 1-5 BEFORE our next class
+
+3) Review the posted notes before class
+
+
+
+
+
+

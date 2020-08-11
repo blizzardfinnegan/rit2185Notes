@@ -1,0 +1,34 @@
+Week 9 Session 03 (F)
+
+Quiz - HW#8 Topics (Nodal and Superposition)
+
+The Power Triangle
+- Objectives
+- Description
+
+- Example with a single load (use your calculator)
+  Find P, S, Q
+  Draw the power triangle
+  Multiple loads/branches
+  Approach
+
+- In Class Problem 
+  (A) Find PT (W), QT (VARS), ST (VA)
+  (B) Draw the power triangle
+  (C) Determine Fp
+  (D) Find IS
+-----
+Reminders
+
+1) Read chapter 20, section 9 (power factor correction) by Monday
+
+2) HW#9 - Due Monday 
+
+
+
+
+
+
+
+
+

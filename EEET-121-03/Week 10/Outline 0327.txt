@@ -1,0 +1,30 @@
+Week 10 Session 02 (W)
+
+Series Resonance
+- Objectives
+- Introduction
+- Mechanical Example
+- Series Circuit Resonance
+    Circuit properties
+    Quality factor 
+    ZT
+    Selectivity (bandwidth)
+- In Class Problem
+    Similar to problems 1 and 3 (HW)
+-----
+Reminders
+
+1) Quiz Friday on HW#9 topics
+- Thevenin, Norton, Pmax
+
+2) Final Exam for AC Circuits Lecture
+- Monday, May 6th 2019, 4:15pm - 6:45pm, George Eastman Hall (EAS)-2000
+
+
+ 
+ 
+
+
+
+
+
